@@ -1,4 +1,18 @@
-### Hi there 👋
+# 👾 kacper
+
+- 📚 i like programming, game development and music.
+
+- 🐍 python programmer!
+
+- 🤔 c# too!
+
+# ⭐ favourites
+
+- 🟢 my faovurite colour is green.
+
+- 🕹 my favourite videogame is littlebigplanet.
+
+- 🎵 my favourite music album is gorillaz demon days.
 
 <!--
 **kacpermd/kacpermd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
