@@ -8,7 +8,7 @@
 
 # ⭐ favourites
 
-- 🟢 my faovurite colour is green.
+- 🟢 my favourite colour is green.
 
 - 🕹 my favourite videogame is littlebigplanet.
 
